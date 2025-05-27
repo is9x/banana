@@ -1,0 +1,27 @@
+Privacy Policy — Banana Add-on 🍌
+Last updated: May 2025
+
+Banana is all about making your Slides look sick without messing with your data. Here’s how we roll:
+
+1. What Data We Collect
+Nada. We don’t collect, store, or share any personal information. Banana only uses what it needs to run inside Google Slides (like basic app permissions), and that’s it.
+
+2. How We Use Data
+The add-on operates within Google Slides and Google’s ecosystem. It does not send your data anywhere else or use it for ads or tracking.
+
+3. Cookies & Tracking
+We don’t use cookies, trackers, or any creepy surveillance tech.
+
+4. Third-Party Services
+Banana loads some stuff from external URLs (like Three.js from CDN), but those services have their own privacy policies. We don’t control their data collection.
+
+5. Security
+We keep your experience tight but can’t guarantee 100% security (nobody can). Use at your own discretion, but we work to keep everything safe and clean.
+
+6. Changes to Privacy Policy
+We might update this policy if we add new features or change stuff. Check back here occasionally.
+
+7. Contact
+Questions or privacy concerns? Reach out at support@bananaaddon.example (placeholder, you gotta set this up).
+
+Keep it breezy, keep it safe, and let Banana make your Slides fire. 🍌✨
