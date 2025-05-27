@@ -1,0 +1,32 @@
+{
+  "name": "banana",
+  "version": "1.0.0",
+  "description": "A neon-flying games menu Google Slides add-on with a sick starfield UI.",
+  "main": "Code.gs",
+  "scripts": {
+    "deploy": "clasp push && clasp deploy",
+    "lint": "eslint .",
+    "test": "echo \"No tests yet, but soon™\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/is9x/banana.git"
+  },
+  "keywords": [
+    "google",
+    "slides",
+    "addon",
+    "games",
+    "banana",
+    "starfield",
+    "neon",
+    "javascript",
+    "google-apps-script"
+  ],
+  "author": "Wesley",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "@types/google-apps-script": "^1.0.56"
+  }
+}
