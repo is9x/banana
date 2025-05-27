@@ -1,0 +1,34 @@
+{
+  "timeZone": "America/Chicago",
+  "dependencies": {},
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/presentations",
+    "https://www.googleapis.com/auth/script.container.ui"
+  ],
+  "addOns": {
+    "common": {
+      "name": "Banana",
+      "logoUrl": "https://pngimg.com/d/banana_PNG842.png",
+      "layoutProperties": {
+        "primaryColor": "#00ffff",
+        "secondaryColor": "#ff0066"
+      },
+      "useLocaleFromApp": true
+    },
+    "slides": {
+      "homepageTrigger": {
+        "runFunction": "onOpen"
+      }
+    }
+  },
+  "urlFetchWhitelist": [],
+  "webapp": {
+    "access": "ANYONE",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "executionApi": {
+    "access": "ANYONE"
+  }
+}
